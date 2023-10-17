@@ -1,5 +1,1 @@
-Hello There
-
-This is the new website version
-
-Thanks
+Initialized
