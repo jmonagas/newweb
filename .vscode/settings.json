@@ -30,7 +30,8 @@
 		"editor.findMatchBorder": "#ffee00",
 		"editorIndentGuide.background1": "#868686",
 		"scrollbarSlider.background": "#ff0000",
-		"scrollbarSlider.hoverBackground": "#00a508"
+		"scrollbarSlider.hoverBackground": "#00a508",
+		"editor.background": "#030524"
 	},
 	"editor.tabCompletion": "on",
 	"editor.tabSize": 2,
@@ -42,8 +43,8 @@
 	"editor.stickyTabStops": true,
 	"editor.formatOnType": false,
 	"notebook.output.wordWrap": true,
-	"editor.wordWrapColumn": 150,
-	"html.format.wrapLineLength": 150,
+	"editor.wordWrapColumn": 111,
+	"html.format.wrapLineLength": 111,
 	"diffEditor.ignoreTrimWhitespace": true,
 	"html.format.templating": true,
 	"html.format.wrapAttributesIndentSize": 2,
@@ -53,5 +54,6 @@
 	"editor.hover.delay": 1000,
 	"editor.hover.hidingDelay": 100,
 	"workbench.hover.delay": 1000,
-	"workbench.sash.hoverDelay": 1000
+	"workbench.sash.hoverDelay": 1000,
+	"editor.detectIndentation": true,
 }

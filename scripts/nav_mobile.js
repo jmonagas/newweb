@@ -1,1 +1,8 @@
-function openNav(){document.getElementById("nav-lks").style.width="100vw"};function closeNav(){document.getElementById("nav-lks").style.width="0%"}
+function toggleLinks() {
+  let item = document.getElementById("nav-links");
+  if (item.style.display === "block") {
+    item.style.display = "none";
+  } else {
+    item.style.display = "block";
+  }
+}
