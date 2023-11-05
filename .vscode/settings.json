@@ -48,7 +48,6 @@
 	"diffEditor.ignoreTrimWhitespace": true,
 	"html.format.templating": true,
 	"html.format.wrapAttributesIndentSize": 2,
-	"zenMode.hideTabs": false,
 	"editor.defaultColorDecorators": true,
 	"editor.quickSuggestionsDelay": 1000,
 	"editor.hover.delay": 1000,
