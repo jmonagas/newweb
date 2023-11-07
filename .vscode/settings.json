@@ -8,7 +8,7 @@
 	"terminal.integrated.cursorBlinking": true,
 	"editor.wordWrap": "on",
 	"chat.editor.wordWrap": "on",
-	"editor.formatOnPaste": false,
+	"editor.formatOnPaste": true,
 	"editor.formatOnSave": false,
 	"files.autoSave": "afterDelay",
 	"workbench.colorCustomizations": {
@@ -55,4 +55,5 @@
 	"workbench.hover.delay": 1000,
 	"workbench.sash.hoverDelay": 1000,
 	"editor.detectIndentation": true,
+	"scm.diffDecorationsIgnoreTrimWhitespace": "inherit",
 }
