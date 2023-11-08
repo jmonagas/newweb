@@ -51,7 +51,7 @@
 	"editor.defaultColorDecorators": true,
 	"editor.quickSuggestionsDelay": 1000,
 	"editor.hover.delay": 1000,
-	"editor.hover.hidingDelay": 100,
+	"editor.hover.hidingDelay": 10,
 	"workbench.hover.delay": 1000,
 	"workbench.sash.hoverDelay": 1000,
 	"editor.detectIndentation": true,
