@@ -65,7 +65,7 @@
 	"css.format.spaceAroundSelectorSeparator": false,
 	"editor.wrappingIndent": "same",
 	"diffEditor.wordWrap": "inherit",
-	"editor.wordWrapColumn": 120,
+	"editor.wordWrapColumn": 121,
 	"notebook.output.wordWrap": true,
-	"html.format.wrapLineLength": 120
+	"html.format.wrapLineLength": 121
 }
