@@ -1,13 +1,1 @@
-<?xml version="1.0" ?>
-<svg enable-background="new 0 0 32 32" version="1.1" width="35px" height="35px" viewBox="0 0 32 32"
-     xml:space="preserve" xmlns="http://www.w3.org/2000/svg"
-     xmlns:xlink="http://www.w3.org/1999/xlink">
-  <g id="Line">
-    <g>
-      <path d="M30,2v28H2V2H30 M31,1H1v30h30V1L31,1z" fill="#ffffff" />
-      <!-- <path d="M30,2v28H2V2H30 M31,1H1v30h30V1L31,1z" fill="#ffffff" /> -->
-    </g>
-    <path d="M13.892,24.123h3.357v-8.124h2.239l0.297-2.799h-2.536l0.003-1.402c0-0.73,0.07-1.121,1.117-1.121h1.4v-2.8   h-2.24c-2.69,0-3.637,1.358-3.637,3.642V13.2h-1.677V16h1.677V24.123z"
-          fill="#ffffff" />
-  </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="#ffffff" width="26" height="26" viewBox="0 0 24 24"><path d="M0 0v24h24v-24h-24zm16 7h-1.923c-.616 0-1.077.252-1.077.889v1.111h3l-.239 3h-2.761v8h-3v-8h-2v-3h2v-1.923c0-2.022 1.064-3.077 3.461-3.077h2.539v3z"/></svg>
