@@ -19,4 +19,6 @@
   "editor.formatOnPaste": false,
   "editor.formatOnSave": false,
   "editor.formatOnType": false,
+  "editor.hover.hidingDelay": 10,
+  "editor.quickSuggestionsDelay": 300,
 }
